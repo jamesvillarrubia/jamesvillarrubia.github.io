@@ -1,9 +1,8 @@
-title : K Street Media _config.yml
+theme: jekyll-theme-modernist
+title : K Street Media
 
 author :
   name : Pablo Manriquez
   email : pablo@kstreet.us.test
   github : kstreetmedia
   twitter : kstreetmedia
-
-theme: jekyll-theme-modernist
