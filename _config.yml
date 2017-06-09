@@ -1,4 +1,3 @@
-theme: jekyll-theme-modernist
 title : K Street Media
 
 author :
@@ -6,3 +5,5 @@ author :
   email : pablo@kstreet.us.test
   github : kstreetmedia
   twitter : kstreetmedia
+
+theme: jekyll-theme-modernist
